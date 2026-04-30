@@ -267,7 +267,7 @@ button:active {
   color: grey !important;
 }
 
-// inventory grids
+
 .inventory-grid-header-wrapper {
   display: flex;
   align-items: center;
@@ -285,7 +285,7 @@ button:active {
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
 }
 
-// Weight Box
+
 .inventory-grid-header-wrapper p:last-child {
   background: transparent;
   padding: 0;
@@ -295,7 +295,7 @@ button:active {
   align-items: center;
   gap: 7px;
 
-  // The squares container
+
   .weight-squares-wrap {
     display: flex;
     gap: 2px;
@@ -305,7 +305,7 @@ button:active {
     border: 1px solid rgba(255, 255, 255, 0.18);
   }
 
-  // Individual square
+  
   .weight-sq {
     width: 8px;
     height: 9px;
@@ -314,11 +314,11 @@ button:active {
     transition: background 0.12s ease, opacity 0.12s ease;
 
     &.filled {
-      // color + opacity driven by inline style from React
+     
     }
   }
 
-  // "3.4/5kg" text
+
   .weight-label {
     font-size: 14px;
     font-family: $mainFont;
@@ -341,7 +341,6 @@ button:active {
   overflow-y: scroll;
 }
 
-// inventory slots
 .inventory-slot {
   background-color: rgba(100, 101, 102, 0.233);
   background-repeat: no-repeat;
@@ -499,7 +498,6 @@ button:active {
   }
 }
 
-// hotbar
 .hotbar-container {
   display: flex;
   align-items: center;
@@ -529,7 +527,7 @@ button:active {
   transform: translateX(-50%);
   display: flex;
   flex-wrap: nowrap;
-  gap: 7px; // match $gridGap
+  gap: 7px;
   width: auto;
   overflow: visible;
 }
