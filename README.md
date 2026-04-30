@@ -9,7 +9,7 @@ A customized version of [ox_inventory](https://github.com/overextended/ox_invent
 ## ✨ Features
 
 - Custom dark theme with Oswald font
-- Resized inventory slots (11.5vh)
+- Resized inventory slots 
 - Hexagon-shaped control buttons
 - Custom hotbar positioning
 - Modified weight display styling
