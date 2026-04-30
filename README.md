@@ -26,4 +26,4 @@ A customized version of [ox_inventory](https://github.com/overextended/ox_invent
 
 1. **Download the resource**
 ```bash
-https://github.com/kesh-dev-eng/Ox-Inventory-Remake-Simple/tree/main
+[https://github.com/kesh-dev-eng/Ox-Inventory-Remake-Simple/tree/main](https://github.com/Mmbaxd/ox_Inventory)
