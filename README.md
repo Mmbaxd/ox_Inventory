@@ -4,7 +4,7 @@ A customized version of [ox_inventory](https://github.com/overextended/ox_invent
 
 ## 📸 Preview
 
-![Inventory Preview]([https://github.com/Mmbaxd/ox_Inventory/blob/main/preview](https://github.com/Mmbaxd/ox_Inventory/blob/main/preview.png))
+![Inventory Preview](https://github.com/Mmbaxd/ox_Inventory/blob/main/preview.png)
 
 ## ✨ Features
 
